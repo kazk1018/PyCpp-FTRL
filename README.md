@@ -16,7 +16,7 @@
 * Install eigen3 via [Homebrew](https://brew.sh/index)
 
 ```
-brew install eigen3
+brew install eigen
 ```
 
 * Set python config
